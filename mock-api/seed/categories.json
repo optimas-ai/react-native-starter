@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bug",
+    "name": "Bug"
+  },
+  {
+    "id": "feature",
+    "name": "Feature"
+  },
+  {
+    "id": "chore",
+    "name": "Chore"
+  }
+]

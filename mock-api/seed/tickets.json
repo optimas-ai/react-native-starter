@@ -1,0 +1,92 @@
+[
+  {
+    "id": 100,
+    "title": "Sample ticket 100",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 101,
+    "title": "Sample ticket 101",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 102,
+    "title": "Sample ticket 102",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 103,
+    "title": "Sample ticket 103",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 104,
+    "title": "Sample ticket 104",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 105,
+    "title": "Sample ticket 105",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 106,
+    "title": "Sample ticket 106",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 107,
+    "title": "Sample ticket 107",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 108,
+    "title": "Sample ticket 108",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 109,
+    "title": "Sample ticket 109",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 110,
+    "title": "Sample ticket 110",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 111,
+    "title": "Sample ticket 111",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 112,
+    "title": "Sample ticket 112",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 113,
+    "title": "Sample ticket 113",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 114,
+    "title": "Sample ticket 114",
+    "status": "Open",
+    "createdAt": "2024-01-01T00:00:00Z"
+  }
+]
